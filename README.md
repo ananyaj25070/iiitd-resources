@@ -49,6 +49,7 @@ Complete archive of my B.Tech lecture slides, notes, assignments, labs, and stud
 
 * **Evani Menon** — [https://github.com/evanimenon](https://github.com/evanimenon)
 * **Zaid Aftab** — [https://github.com/Zaid-Aftab](https://github.com/Zaid-Aftab)
+* **Akash Adur** - [https://github.com/akash-adur](https://github.com/akash-adur)
 
 ---
 
